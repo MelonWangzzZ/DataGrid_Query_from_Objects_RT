@@ -456,7 +456,7 @@ Children:
             - Name: DynamicLink
               Type: DynamicLink
               DataType: NodePath
-              Value: "{Item}/Acceleration@BrowseName"
+              Value: "{Item}/Acceleration"
               Children:
               - Name: Mode
                 Type: BaseVariableType
@@ -497,7 +497,7 @@ Children:
             - Name: DynamicLink
               Type: DynamicLink
               DataType: NodePath
-              Value: "{Item}/Speed@BrowseName"
+              Value: "{Item}/Speed"
               Children:
               - Name: Mode
                 Type: BaseVariableType
@@ -538,7 +538,7 @@ Children:
             - Name: DynamicLink
               Type: DynamicLink
               DataType: NodePath
-              Value: "{Item}/Model@BrowseName"
+              Value: "{Item}/Model"
               Children:
               - Name: Mode
                 Type: BaseVariableType
