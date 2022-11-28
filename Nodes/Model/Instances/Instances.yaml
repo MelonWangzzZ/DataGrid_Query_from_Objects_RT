@@ -1,0 +1,4 @@
+Name: Instances
+Type: FolderType
+Children:
+- File: Motors/Motors.yaml
